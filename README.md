@@ -26,7 +26,7 @@
 
 
 <div >
-  
+  <a href="https://github.com/cristiano-nicolau/cristiano-nicolau">
   <img height="50%" src="(https://github-readme-stats.vercel.app/api?username=cristiano-nicolau&show_icons=true&theme=transparent"/>
   <img height="50%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-kauati&layout=compact&langs_count=9&theme=blue-green](http://github-readme-streak-stats.herokuapp.com?user=cristiano-nicolau&theme=cobalt&date_format=M%20j%5B%2C%20Y%5D&sideLabels=DD2727&border=DD2727)"/>
 </div>

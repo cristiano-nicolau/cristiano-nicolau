@@ -23,6 +23,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" **alt="Git" width="40" height="40"/>
 </div>
 --->
+
+
+<div >
+  
+  <img height="50%" src="(https://github-readme-stats.vercel.app/api?username=cristiano-nicolau&show_icons=true&theme=transparent"/>
+  <img height="50%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-kauati&layout=compact&langs_count=9&theme=blue-green](http://github-readme-streak-stats.herokuapp.com?user=cristiano-nicolau&theme=cobalt&date_format=M%20j%5B%2C%20Y%5D&sideLabels=DD2727&border=DD2727)"/>
+</div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristiano-nicolau&show_icons=true&theme=transparent)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cristiano-nicolau&theme=cobalt&date_format=M%20j%5B%2C%20Y%5D&sideLabels=DD2727&border=DD2727)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristiano-nicolau-github-cristiano-nicolau&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)

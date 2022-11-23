@@ -1,5 +1,7 @@
 ![Nico Header](https://github.com/cristiano-nicolau/cristiano-nicolau/blob/main/banner.png)
 
+
+
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 

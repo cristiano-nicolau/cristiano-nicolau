@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")]
+[![Nico Header](https://github.com/cristiano-nicolau/cristiano-nicolau/blob/main/banner.png)]
 
                                                __  __     ____           _       __           __    ____
                                               / / / /__  / / /___       | |     / /___  _____/ /___/ / /

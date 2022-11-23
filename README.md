@@ -24,17 +24,13 @@
 </div>
 --->
 
-<div>
- <img align="left" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=cristiano-nicolau&layout=compact&langs_count=9&theme=transparent](https://github-readme-stats.vercel.app/api?username=cristiano-nicolau&show_icons=true&theme=transparent)"/>
-    <img align="right" src="[[https://github-readme-stats.vercel.app/api/top-langs/?username=cristiano-nicolau&layout=compact&langs_count=9&theme=transparent](https://github-readme-stats.vercel.app/api?username=cristiano-nicolau&show_icons=true&theme=transparent)](http://github-readme-streak-stats.herokuapp.com?user=cristiano-nicolau&theme=cobalt&date_format=M%20j%5B%2C%20Y%5D&sideLabels=DD2727&border=DD2727))"/>
-</div>
 
-
+<div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristiano-nicolau&show_icons=true&theme=transparent)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cristiano-nicolau&theme=cobalt&date_format=M%20j%5B%2C%20Y%5D&sideLabels=DD2727&border=DD2727)](https://git.io/streak-stats)
-
-<div align="center">
+ <img height="210px" src="https://github-readme-stats.vercel.app/api?username=cristiano-nicolau&show_icons=true&theme=transparent"/>
+ <img height="210px" src="http://github-readme-streak-stats.herokuapp.com?user=cristiano-nicolau&theme=cobalt&date_format=M%20j%5B%2C%20Y%5D&sideLabels=DD2727&border=DD2727"/>
  <img height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiano-nicolau&layout=compact&langs_count=9&theme=transparent"/>
 </div>
 

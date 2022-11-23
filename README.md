@@ -23,6 +23,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" **alt="Git" width="40" height="40"/>
 </div>
 --->
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cristiano-nicolau&theme=cobalt&date_format=M%20j%5B%2C%20Y%5D&sideLabels=DD2727&border=DD2727)](https://git.io/streak-stats)
 

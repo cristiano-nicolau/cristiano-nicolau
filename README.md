@@ -28,5 +28,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristiano-nicolau&show_icons=true&theme=transparent)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cristiano-nicolau&theme=cobalt&date_format=M%20j%5B%2C%20Y%5D&sideLabels=DD2727&border=DD2727)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristiano-nicolau-github-cristiano-nicolau&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristiano-nicolau&layout=compact&langs_count=9&theme=transparent)
 

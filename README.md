@@ -20,6 +20,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" width="42" alt="cplusplus logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="csharp logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" height="30" width="42" alt="ubuntu logo"  />
+  
+  
 </div>
 
 
@@ -39,7 +41,9 @@
   <a href="https://www.facebook.com/cristiano.nicolau.33/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
+  
+  
 </div>
 
 ###
-
+[![](https://visitcount.itsvg.in/api?id=cristiano-nicolau&icon=2&color=2)](https://visitcount.itsvg.in)

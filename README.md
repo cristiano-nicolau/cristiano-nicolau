@@ -40,8 +40,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/cristiano-nicolau/cristiano-nicolau/blob/output/snake.svg" alt="Snake animation" />
-
-###
